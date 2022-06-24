@@ -1,4 +1,4 @@
-package acme.com.au;
+package io.chillplus;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
